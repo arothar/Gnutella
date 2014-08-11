@@ -1,0 +1,21 @@
+Mon Aug  4 11:41:21 2014 Gnutella_SRV[1266] 1539 INFO: Renombrando... OK!
+Mon Aug  4 11:41:21 2014 Gnutella_SRV[1266] 1539 INFO: Archivo de Configuracion cargado... OK!
+Mon Aug  4 11:41:21 2014 Gnutella_SRV[1266] 1539 INFO: Se ha creado el socket... OK!
+Mon Aug  4 11:41:21 2014 Gnutella_SRV[1266] 1539 INFO: Configuracion del socket... OK!
+Mon Aug  4 11:41:21 2014 Gnutella_SRV[1266] 1539 INFO: Se asocio el sock de escucha... OK!
+Mon Aug  4 11:41:21 2014 Gnutella_SRV[1266] 1539 INFO: Funcion listen... OK!
+Mon Aug  4 11:41:21 2014 Gnutella_SRV[1266] 1539 ERROR: Ocurrio un error con la funcion gethostbyname en IP Primaria
+Mon Aug  4 11:41:21 2014 Gnutella_SRV[1266] 1539 INFO: No hay nodos disponibles
+Mon Aug  4 11:41:21 2014 Gnutella_SRV[1266] 1539 INFO: El servidor GNUTELLA esta aceptando conexiones
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Recibiendo informacion
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: La informacion se ha recibido correctamente
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Encabezado del HANDSHAKE recibido
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Recibiendo cuerpo del HANDSHAKE
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Cuerpo de Handshake recibido
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Comprobando el cuerpo del HANDSHAKE
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Comprobacion del HANDSHAKE correcta
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Envio del Header de respuesta al HANDSHAKE
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Envio del Header del HANDSHAKE se completo de forma correcta
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Envio del Cuerpo del HANDSHAKE
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Envio del cuerpo del HANDSHAKE se completo de forma correcta
+Mon Aug  4 11:53:32 2014 Gnutella_SRV[1266] 1539 INFO: Estableciendo conexion con Servidor... OK

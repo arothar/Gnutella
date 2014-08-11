@@ -1,0 +1,13 @@
+Nombre=Upload
+IpLocal=192.168.0.102
+PuertoLocal=9000
+PuertoGnutella=3434
+RutaCompartida=/home/utnso/fuentes/cache
+TamanioBuffer=1024
+TimeSelect=5
+NumeroDeConexiones=20
+TTL=4
+RemoteGnutellaIP_Primaria=10.0.10.15
+RemoteGnutellaPort_Primaria=4444
+RemoteGnutellaIP_Secundaria=192.168.1.104
+RemoteGnutellaPort_Secundaria=7777

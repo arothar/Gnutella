@@ -1,0 +1,11 @@
+Nombre=SrvCache-Vm
+IpLocal=10.0.10.13
+PuertoLocal=9090
+TamanioBuffer=1024
+IpSrvNet=10.0.10.13
+PuertoSrvNet=2222
+Algoritmo=LRU
+CantMaximaCache=3
+TiempoVida=30
+ArchivoHeader=./memHeader.dat
+ArchivoBody=./memBody.dat

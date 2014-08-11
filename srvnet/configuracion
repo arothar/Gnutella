@@ -1,0 +1,9 @@
+Nombre=SrvNet-Orionq
+IpLocal=192.168.0.102
+PuertoLocal=2222
+TamanioBuffer=1024
+TiempoEspera=5
+IpSrvFile=192.168.0.102
+PuertoSrvFile=3434
+TTL=4
+
